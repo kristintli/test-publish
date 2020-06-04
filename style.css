@@ -1,0 +1,26 @@
+/*
+  Name: Kristin Li
+  Date: 4/3/19
+  Section: CSE 154 AK
+  This is the style.css page for Sadie's web page
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+body {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+h1, h2 {
+  /* add color & import a font */
+  color: #1a608c;
+  font-family: 'Oswald', sans-serif;
+}
+
+img {
+  width: 500px;
+  /* try specifying specify width here*/
+}
